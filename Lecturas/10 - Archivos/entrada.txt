@@ -1,0 +1,5 @@
+HOLA
+Este es un texto de ejemplo
+Soy un archivo .txt, por lo que almaceno texto sin formato, y la única información que guardo es el texto mismo
+
+La cantidad de consonantes que hay en este documento es de65
